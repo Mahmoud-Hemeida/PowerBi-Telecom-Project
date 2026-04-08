@@ -76,7 +76,7 @@ It transforms raw operational data into:
 
 Watch the full walkthrough (8 episodes covering all dashboards):
 
-[▶️ Watch Demo Video](04_Video/dashboard_demo.mp4)
+[▶️ Watch Demo Video](04_Video/dashboard_demo.mp4) *(Click to download - 5 MB)*
 
 ---
 
